@@ -22,8 +22,12 @@ header{
 .resumen  p{
     font-size: 20px;
 }
+img{
+    width: 400px;
+}
 
 iframe{
+    width: 900px;
     display: block;
     margin-top:30px;
     margin-left: auto;
